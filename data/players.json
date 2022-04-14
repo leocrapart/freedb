@@ -1,0 +1,16 @@
+{
+    "player1":
+    {
+        "id": "player1",
+        "name": "somename",
+        "lvl": 2,
+        "xp": 5
+    },
+    "player2":
+    {
+        "id": "player2",
+        "name": "anothername",
+        "lvl": 3,
+        "xp": 10
+    }
+}
